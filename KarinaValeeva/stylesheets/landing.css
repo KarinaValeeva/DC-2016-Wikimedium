@@ -24,7 +24,11 @@
 }
 
 .mainSection.center p {
-  margin-top: 21px;
+  margin-top: 27px;
+}
+
+.mainSection.center section {
+  width: 100%;
 }
 
 .mainSection section {
