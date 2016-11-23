@@ -95,6 +95,17 @@ body.landing * {
   margin: 0 20px;
 }
 
+.mainSection.center footer {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+}
+
+.mainSection.center footer p {
+  font-size: 16px;
+}
+
 .mockup {
   position: absolute;
   background-size: cover;
@@ -201,6 +212,10 @@ body.landing * {
 
   .mainSection.center section nav a {
     margin: 0 6px;
+  }
+
+  .mainSection.center footer p {
+    font-size: 12px;
   }
 
   #mockup1 {
